@@ -4,7 +4,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:** [](https://cinescope-c1zf.onrender.com)
+🔗 **Live Website:** [https://cinescope-c1zf.onrender.com]
 
 ## 📌 Overview
 
@@ -84,4 +84,3 @@ Receive movie results
 Display movies
           ↓
 Track the search in Appwrite
-
